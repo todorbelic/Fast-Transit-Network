@@ -1,0 +1,13 @@
+[package]
+name = "projekat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+rayon = "1.11.0"
+tempfile = "3.24.0"
+
+[[bin]]
+name = "tool"
+path = "src/main.rs"
