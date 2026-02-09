@@ -37,7 +37,7 @@ graph_algorithms/
 ├── benchmark.py             # Performance benchmark skripta
 ├── memory_benchmark.py      # Memory benchmark skripta
 ├── README.md                # Ovaj fajl
-└── graph_analytics_report.pdf  # Detaljni izveštaj (LaTeX)
+└── Izvestaj.pdf             # Detaljni izveštaj
 ```
 
 ---
