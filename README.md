@@ -9,21 +9,6 @@ Sistem za analitiku grafova velikih razmera razvijen za potrebe FastTransitNetwo
 
 Svaki algoritam implementiran je u **sekvencijalnoj** i **paralelnoj** verziji sa detaljnom verifikacijom korektnosti i analizom performansi.
 
----
-
-## Karakteristike
-
-✅ **Efikasna CSR (Compressed Sparse Row) reprezentacija grafova**  
-✅ **Bidirekciona CSR struktura za algoritme koji zahtevaju reverse edges**  
-✅ **Sekvenencijalne i paralelne implementacije svih algoritama**  
-✅ **CLI interfejs sa svim potrebnim opcijama**  
-✅ **40+ unit testova za verifikaciju korektnosti**  
-✅ **Python skripte za automatizovano benchmarking i vizualizaciju**  
-✅ **Minimalan memorijski overhead (<1%) kod paralelnih verzija**  
-✅ **Skalabilnost do 16 niti**  
-
----
-
 ## Tehnologije
 
 - **Rust** 1.75+ (programski jezik)
