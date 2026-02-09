@@ -64,9 +64,6 @@ cargo build --release
 # Pokretanje testova
 cargo test
 
-# Pokretanje testova sa detaljnim outputom
-cargo test -- --nocapture
-
 # Pokretanje testova u release modu
 cargo test --release
 ```
